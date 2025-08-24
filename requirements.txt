@@ -5,3 +5,4 @@ opencv-python-headless==4.11.0.86
 streamlit==1.48.0
 ultralytics==8.3.176
 ultralytics-thop==2.0.15
+streamlit-webrtc==0.63.4
