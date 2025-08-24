@@ -27,7 +27,7 @@ if input_source == "Webcam":
     results_placeholder = st.empty() # Placeholder for displaying results
 
     # Camera setup
-    camera = cv2.VideoCapture(0)
+    camera = cv2.VideoCapture(1)
 
     # App state
     if 'running' not in st.session_state:
